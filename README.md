@@ -1,7 +1,6 @@
 # Table of Contents
-- Project Title
+- Project Title   
 - Description
-- How to run the program
 - Files used
 - Additional Documentation
 - Versioning
@@ -15,3 +14,4 @@ No files were used to create this repository.
 No additional documentation was used to create this repository.
 # Versioning
 To create this repository there was a pull request that had to be completed. 
+   
